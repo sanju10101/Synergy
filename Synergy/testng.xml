@@ -8,6 +8,7 @@
       <class name="com.Synergy.Tests.CheckDropdownTest"/>
       <class name="com.Synergy.Tests.FindCampaignTest"/>
       <class name="com.Synergy.Tests.CreateTest"/>
+      <class name="com.Synergy.Tests.typeBtnTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
